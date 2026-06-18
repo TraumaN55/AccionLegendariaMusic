@@ -1,9 +1,9 @@
 {
   "schema": 1,
   "type": "creadth-taleweaver-music-pack",
-  "version": "2026.06.15.1",
+  "version": "2026.06.17.1",
   "bundleId": "63ec575d-d713-42b6-a61d-01c03338a1df",
   "packName": "(Ignore errors) Custom Music Pack",
-  "url": "https://github.com/TraumaN55/AccionLegendariaMusic/releases/download/music-2026.06.15/accionlegendaria-music.zip",
+  "url": "https://github.com/TraumaN55/AccionLegendariaMusic/releases/download/music-2026.06.17/accionlegendaria-music.zip",
   "installMode": "replace-pack"
 }
