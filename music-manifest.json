@@ -1,8 +1,8 @@
 {
   "schema": 2,
   "type": "creadth-taleweaver-music-pack",
-  "version": "2026.10.06.2",
-  "bundleId": "9f06c309-9aa5-450c-9d54-f68990fe443b",
+  "version": "2026.10.08.1",
+  "bundleId": "e548d83d-1ea1-4159-91bf-d90ae69c0dab",
   "removeBundleIds": [
     "63ec575d-d713-42b6-a61d-01c03338a1df",
     "b960f368-f8f4-426f-8e43-8f575b1fe47d",
@@ -11,9 +11,10 @@
     "075f79f5-689a-4ffc-9805-36dddd08af7a",
     "15c9d559-bdb2-4165-9407-36f6b4a9cda8",
     "fc38b359-38a5-4dde-b5c4-6e9c5b130b96",
-    "db52990d-9331-42a1-a607-ad9fd85cfcf5"
+    "db52990d-9331-42a1-a607-ad9fd85cfcf5",
+    "9f06c309-9aa5-450c-9d54-f68990fe443b"
   ],
   "packName": "(Ignore errors) Custom Music Pack",
-  "url": "https://github.com/TraumaN55/AccionLegendariaMusic/releases/download/music-2026.10.06-2/accionlegendaria-music.zip",
+  "url": "https://github.com/TraumaN55/AccionLegendariaMusic/releases/download/music-2026.10.08/accionlegendaria-music.zip",
   "installMode": "replace-pack"
 }
